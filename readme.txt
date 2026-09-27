@@ -1,5 +1,5 @@
 === Insert Database Records ===
-Contributors: yourwordpressorgusername
+Contributors: Loren Nicole Simons
 Tags: csv import, database import, mysql, admin tools, custom tables
 Requires at least: 6.5
 Tested up to: 6.9.4
