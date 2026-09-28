@@ -12,8 +12,6 @@ Admin-only CSV import tool for validated inserts into custom MySQL tables, with 
 
 == Description ==
 
-This is a test!!!
-
 Insert Database Records adds an admin-only screen under **Tools** that lets site administrators upload a CSV file, choose an allowed **custom** database table, validate the file against the selected table, insert one row per CSV row, and delete the most recent successful import batch when needed.
 
 The plugin is designed for cases where you need a controlled import workflow for plugin-owned or custom application tables without exposing WordPress core tables to import actions.

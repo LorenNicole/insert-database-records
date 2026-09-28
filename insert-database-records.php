@@ -3,7 +3,7 @@
  * Plugin Name: Insert Database Records
  * Description: Admin-only CSV importer for custom MySQL tables with validation, batch logging, and delete-last-import support.
  * Version: 0.2.0
- * Author: OpenAI
+ * Author: Loren Nicole Simons
  * Text Domain: insert-database-records
  */
 
